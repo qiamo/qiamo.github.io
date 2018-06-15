@@ -738,15 +738,66 @@ nav .hot{
 
 
 
+/*me  部分开始*/
+.me{
+    background-color: #f3f3f3;
+}
+/*顶部   开始*/
+.search{
+    background-color: white;
+}
+.search .left img{
+    margin-top: 5px;
+    width: 59px;
+}
+.search .center img{
+    width: 100px;
+    margin-left: 69px;
+}
+.search .right .fa-commenting-o{
+    color: #81838e;
+    margin-top: 9px;
+    font-size: 36px;
+} 
 
 
+/*顶部导航开始*/
+.daohang{
+    background-color: white;
+    border-bottom: 1px #d6d6d6 solid;
+    
+}
+.daohang .uls{
+    width: 79%;
+    overflow: hidden;
+}
+.daohang ul{
+    padding-top: 80px;
+    padding-bottom: 15px;
+    width: 500px;
+    
+}
+.daohang ul>li{
+    float: left;
+    margin-left: 18px;
+    
+}
+.daohang ul >li a{
+    color: #727272;
+    font-size: 16px;
+}
+.daohang ul>li a:hover{
+    color: #f23030;
+    padding-bottom: 15px;
+    border-bottom: 3px #f23030 solid;
+}
 
-
-
-
-
-
-
+.daohang .fa-chevron-down {
+    float: right;
+    font-size: 30px;
+    margin-top: -44px;
+    margin-right: 45px;
+}
 
 
 
